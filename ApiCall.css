@@ -1,0 +1,36 @@
+body{
+    font-family: 'Droid Serif', serif;
+    background-image: url(https://exitplanningboston.com/wp-content/uploads/2017/09/parchment-background.jpg);
+    background-size: 100%;
+}
+
+#newsImage{
+    height: 200px;
+    width: 300px;
+}
+
+#imageDiv{
+    float: left;
+    padding-right: 5px;
+}
+
+#dataDiv{
+    float: left;
+    width: 500px;
+}
+
+#newsBox{
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    height: 220px;
+    width: 900px;
+    
+}
+
+#buttonDiv{
+    width: 20%;
+margin-left: 40%;
+margin-right: 40%
+}
